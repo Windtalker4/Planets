@@ -1,0 +1,13 @@
+/*Changes h2 properties*/
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 153, 255);
+}
+
+/* Changed all the lists to the properties below.*/
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
+    font-style: italic;
+
+}
